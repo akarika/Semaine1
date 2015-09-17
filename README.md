@@ -4,23 +4,23 @@
 ####Présentation
 ----------------
 
-Rémy de **vannes** j'ai 31 ans.
+-Rémy de **vannes** j'ai 31 ans.
 
-#Votre expérience professionnelle
+###Votre expérience professionnelle
 ---------------------------------
 
-A cré des sites à l'époque du **warez**
+-A cré des sites à l'époque du **warez**
 
 
 ####Vos formations
 ------------------
-GoC V3 en cours
+-GoC V3 en cours
 
-Connaisance basique en **Python**
+-Connaisance basique en **Python**
 
 ####Les raisons pour lesquels vous vous êtes inscrit sur Simplonline et qu'est-ce que vous attendez de la formation
 -------------------------------------------------------------------------------------------------------------------
 
-Revenir a ses premiers amours 
+-Revenir a ses premiers amours en informatique (programmation, création de sites web , communauté)
 
-Etre capable de créer en site et application web en autonomie et en groupe 
+-Etre capable de créer en site et application web en autonomie et en groupe 
