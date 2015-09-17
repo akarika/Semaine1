@@ -1,25 +1,25 @@
-### Semaine1
+# Semaine1
+----------
 
-
-#Présentation
-=============
+####Présentation
+----------------
 
 Rémy de **vannes** j'ai 31 ans.
 
 #Votre expérience professionnelle
-=================================
+---------------------------------
 
 A cré des sites à l'époque du **warez**
 
 
-#Vos formations
-===============
+####Vos formations
+------------------
 GoC V3 en cours
 
 Connaisance basique en **Python**
 
-#Les raisons pour lesquels vous vous êtes inscrit sur Simplonline et qu'est-ce que vous attendez de la formation
-================================================================================================================
+####Les raisons pour lesquels vous vous êtes inscrit sur Simplonline et qu'est-ce que vous attendez de la formation
+-------------------------------------------------------------------------------------------------------------------
 
 Revenir a ses premiers amours 
 
