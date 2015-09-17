@@ -11,7 +11,6 @@
 
 -A cré plusieurs sites **warez** à son balbutiement (il y a 15 ans...)
 
-
 ####Vos formations
 ------------------
 -GoC V3 en cours
@@ -24,3 +23,4 @@
 -Revenir a ses premiers amours en informatique (programmation, création de sites web , communauté)
 
 -Etre capable de créer en site et application web en autonomie et en groupe 
+
