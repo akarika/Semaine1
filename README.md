@@ -9,7 +9,7 @@
 ###Votre expérience professionnelle
 ---------------------------------
 
--A cré des sites à l'époque du **warez**
+-A cré plusieurs sites **warez** à son balbutiement (il y a 15 ans...)
 
 
 ####Vos formations
