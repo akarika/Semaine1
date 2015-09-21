@@ -22,5 +22,5 @@
 
 -Revenir a ses premiers amours en informatique (programmation, création de sites web , communauté)
 
--Etre capable de créer en site et application web en autonomie et en groupe 
+-Etre capable de créer des sites,applications,en autonomie et sur tout projet
 
