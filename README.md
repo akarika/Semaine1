@@ -13,7 +13,7 @@
 
 ####Vos formations
 ------------------
--GoC V3 en cours
+-GoC *V3* en cours
 
 -Connaisance basique en **Python**
 
